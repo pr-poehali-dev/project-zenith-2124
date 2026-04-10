@@ -14,3 +14,10 @@
 [vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
 10:58:42 AM [vite] (client) Re-optimizing dependencies because vite config has changed
 10:58:42 AM [vite] server restarted.
+11:00:27 AM [vite] (client) page reload index.html
+11:00:27 AM [vite] vite.config.ts changed, restarting server...
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+11:00:28 AM [vite] (client) Re-optimizing dependencies because vite config has changed
+11:00:28 AM [vite] server restarted.
+11:03:14 AM [vite] (client) page reload index.html
+11:03:15 AM [vite] (client) page reload index.html
